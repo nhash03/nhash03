@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @nhash03
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on anything that helps me learn new things
 - 📫 How to reach me : stellarranger3@gmail.com
-- I'm an IMES scholarship winner @ UBC 
+- I'm an IMES scholar @ UBC 
 - Skills : Python, R, HTML, CSS, Racket
 - Basic knowledge : Java, JavaScript
 
